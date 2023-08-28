@@ -1,0 +1,15 @@
+C:\Users\usero\OneDrive\Рабочий стол\C# 52\ex-52\tab-52\bin\Debug\net7.0\tab-52.exe
+C:\Users\usero\OneDrive\Рабочий стол\C# 52\ex-52\tab-52\bin\Debug\net7.0\tab-52.deps.json
+C:\Users\usero\OneDrive\Рабочий стол\C# 52\ex-52\tab-52\bin\Debug\net7.0\tab-52.runtimeconfig.json
+C:\Users\usero\OneDrive\Рабочий стол\C# 52\ex-52\tab-52\bin\Debug\net7.0\tab-52.dll
+C:\Users\usero\OneDrive\Рабочий стол\C# 52\ex-52\tab-52\bin\Debug\net7.0\tab-52.pdb
+C:\Users\usero\OneDrive\Рабочий стол\C# 52\ex-52\tab-52\obj\Debug\net7.0\tab-52.csproj.AssemblyReference.cache
+C:\Users\usero\OneDrive\Рабочий стол\C# 52\ex-52\tab-52\obj\Debug\net7.0\tab-52.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usero\OneDrive\Рабочий стол\C# 52\ex-52\tab-52\obj\Debug\net7.0\tab-52.AssemblyInfoInputs.cache
+C:\Users\usero\OneDrive\Рабочий стол\C# 52\ex-52\tab-52\obj\Debug\net7.0\tab-52.AssemblyInfo.cs
+C:\Users\usero\OneDrive\Рабочий стол\C# 52\ex-52\tab-52\obj\Debug\net7.0\tab-52.csproj.CoreCompileInputs.cache
+C:\Users\usero\OneDrive\Рабочий стол\C# 52\ex-52\tab-52\obj\Debug\net7.0\tab-52.dll
+C:\Users\usero\OneDrive\Рабочий стол\C# 52\ex-52\tab-52\obj\Debug\net7.0\refint\tab-52.dll
+C:\Users\usero\OneDrive\Рабочий стол\C# 52\ex-52\tab-52\obj\Debug\net7.0\tab-52.pdb
+C:\Users\usero\OneDrive\Рабочий стол\C# 52\ex-52\tab-52\obj\Debug\net7.0\tab-52.genruntimeconfig.cache
+C:\Users\usero\OneDrive\Рабочий стол\C# 52\ex-52\tab-52\obj\Debug\net7.0\ref\tab-52.dll
